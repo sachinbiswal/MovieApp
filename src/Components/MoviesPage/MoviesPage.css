@@ -1,0 +1,20 @@
+::-webkit-scrollbar {
+    display: none;
+}
+.MoviesPage{
+    height: 100%;
+    width: 100%;
+    background-color: #0f1014;
+}
+.moviesCardsContainer{
+    height: 85%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 0 3rem;
+    overflow-y: scroll;
+    margin-top: 2rem;
+    background-color: #0f1014;
+}
