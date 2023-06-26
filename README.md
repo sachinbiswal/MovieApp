@@ -1,6 +1,6 @@
 # App demonstartion: https://sachinbiswal.github.io/MovieApp/
 __________________________________________________________________________________________________________________________________________________
-This page is create using react(CRA)
+# This page is create using react(CRA)
 ## Hooks Used
 ### 1)useEffect
 ### 2)useState
